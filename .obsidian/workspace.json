@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yaztar/Backstory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daed1ddff92b8362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forgotten Realms/Netherial/Netherese.md",
+                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yaztar/Backstory.md",
+                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yaztar/Backstory.md",
+                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yaztar/Backstory.md"
+                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md"
               }
             }
           },
@@ -174,26 +162,31 @@
   },
   "active": "20817c683dcc71d1",
   "lastOpenFiles": [
-    "Players/Runa.md",
+    "Charecters/Yaztar/lvl3-sheet.pdf",
+    "Charecters/Yaztar/Backstory/After the rift.md",
+    "Charecters/Yaztar/Backstory/Time before the rift.md",
+    "Charecters/Yaztar/Backstory.md",
+    "Charecters/Yaztar/Backstory",
+    "Charecters/Yaztar/Goals.md",
+    "Charecters/Yaztar/Whispers.md",
+    "Charecters/Yaztar/Appearance.md",
+    "Forgotten Realms/Magic/Mystra.md",
+    "Forgotten Realms/Magic/Weave.md",
     "Forgotten Realms/Netherial/Netherese.md",
-    "Yaztar/Backstory.md",
-    "Yaztar/Whispers.md",
+    "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
+    "Charecters/Runa/Notes.md",
+    "Charecters/Runa",
     "Forgotten Realms/Loross.md",
     "Forgotten Realms/Netherial",
     "Forgotten Realms/Untitled.md",
-    "Yaztar/Appearance.md",
-    "Yaztar/Goals.md",
-    "Forgotten Realms/Magic/Weave.md",
-    "Forgotten Realms/Magic/Mystra.md",
     "Forgotten Realms/Magic.md",
     "Forgotten Realms/Magic",
-    "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
     "Forgotten Realms/Sword Coast/Waterdeep",
     "Forgotten Realms/Sword Coast",
     "Forgotten Realms",
     "Yaztar/Yaztar.md",
     "Notes.md",
-    "Yaztar",
-    "Players"
+    "Charecters/Yaztar",
+    "Charecters"
   ]
 }
