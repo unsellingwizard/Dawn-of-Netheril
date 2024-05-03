@@ -11,15 +11,50 @@
             "id": "20817c683dcc71d1",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Charecters/Yaztar/lvl3-sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "465e3da6af516dd1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
+                "file": "Charecters/Yaztar/Appearance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1aa0266604e36bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charecters/Yaztar/Backstory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "172469f4cb2534e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024-05-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
+                "file": "Charecters/Yaztar/Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
+                "file": "Charecters/Yaztar/Backstory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md"
+                "file": "Charecters/Yaztar/Backstory.md"
               }
             }
           },
@@ -160,20 +195,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "20817c683dcc71d1",
+  "active": "e1aa0266604e36bb",
   "lastOpenFiles": [
+    "Charecters/Yaztar/Appearance.md",
+    "Sessions/2024-05-02.md",
     "Charecters/Yaztar/lvl3-sheet.pdf",
+    "Sessions",
+    "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
+    "Recording 20240502203332.webm",
     "Charecters/Yaztar/Backstory/After the rift.md",
     "Charecters/Yaztar/Backstory/Time before the rift.md",
     "Charecters/Yaztar/Backstory.md",
     "Charecters/Yaztar/Backstory",
     "Charecters/Yaztar/Goals.md",
     "Charecters/Yaztar/Whispers.md",
-    "Charecters/Yaztar/Appearance.md",
     "Forgotten Realms/Magic/Mystra.md",
     "Forgotten Realms/Magic/Weave.md",
     "Forgotten Realms/Netherial/Netherese.md",
-    "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
     "Charecters/Runa/Notes.md",
     "Charecters/Runa",
     "Forgotten Realms/Loross.md",
@@ -185,8 +223,6 @@
     "Forgotten Realms/Sword Coast",
     "Forgotten Realms",
     "Yaztar/Yaztar.md",
-    "Notes.md",
-    "Charecters/Yaztar",
-    "Charecters"
+    "Notes.md"
   ]
 }
