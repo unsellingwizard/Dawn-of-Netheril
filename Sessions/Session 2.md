@@ -1,0 +1,1 @@
+New party member joined the mercenary group
