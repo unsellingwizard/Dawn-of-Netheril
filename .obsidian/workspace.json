@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "Charecters/Yaztar/Backstory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cb2d4f23fa536ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "Sessions/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 2.md",
+                "file": "Sessions/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 2.md"
+                "file": "Sessions/Session 4.md"
               }
             }
           },
@@ -141,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,14 +174,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "97a13a6daec8ee2d",
+  "active": "1cb2d4f23fa536ba",
   "lastOpenFiles": [
-    "Sessions/Session 1.md",
-    "Sessions/Session 2.md",
-    "Sessions/2024-05-02.md",
-    "Charecters/Yaztar/Appearance.md",
-    "Untitled.canvas",
+    "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
+    "Sessions/Session 4.md",
     "Charecters/Yaztar/Backstory.md",
+    "Forgotten Realms/Magic/Items",
+    "Charecters/Yaztar/Appearance.md",
+    "Charecters/Yaztar/Classes taken.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 1.md",
+    "Sessions/2024-05-02.md",
+    "Untitled.canvas",
     "Charecters/Yaztar/lvl3-sheet.pdf",
     "Sessions",
     "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
@@ -189,7 +207,6 @@
     "Forgotten Realms/Magic",
     "Forgotten Realms/Sword Coast/Waterdeep",
     "Forgotten Realms/Sword Coast",
-    "Forgotten Realms",
     "Yaztar/Yaztar.md",
     "Notes.md"
   ]
