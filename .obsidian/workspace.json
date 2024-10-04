@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 4.md",
+                "file": "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 4.md"
+                "file": "Forgotten Realms/Magic/Items/Ring of Binding Light.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "1cb2d4f23fa536ba",
   "lastOpenFiles": [
-    "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
     "Sessions/Session 4.md",
+    "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
     "Charecters/Yaztar/Backstory.md",
     "Forgotten Realms/Magic/Items",
     "Charecters/Yaztar/Appearance.md",
