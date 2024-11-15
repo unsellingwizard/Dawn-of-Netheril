@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charecters/Annie/Notes.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Session 6"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charecters/Annie/Notes.md",
+                "file": "Sessions/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for Session 6"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charecters/Annie/Notes.md",
+                "file": "Sessions/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from Session 6"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charecters/Annie/Notes.md"
+                "file": "Sessions/Session 6.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Session 6"
             }
           },
           {
@@ -196,10 +196,11 @@
   },
   "active": "1cb2d4f23fa536ba",
   "lastOpenFiles": [
+    "Sessions/Session 4.md",
+    "Sessions/Session 6.md",
+    "Charecters/Annie/Notes.md",
     "Charecters/Annie",
     "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
-    "Charecters/Annie/Notes.md",
-    "Sessions/Session 4.md",
     "Charecters/Yaztar/Backstory.md",
     "Forgotten Realms/Magic/Items",
     "Charecters/Yaztar/Appearance.md",
@@ -228,7 +229,6 @@
     "Forgotten Realms/Magic.md",
     "Forgotten Realms/Magic",
     "Forgotten Realms/Sword Coast/Waterdeep",
-    "Forgotten Realms/Sword Coast",
     "Yaztar/Yaztar.md",
     "Notes.md"
   ]
