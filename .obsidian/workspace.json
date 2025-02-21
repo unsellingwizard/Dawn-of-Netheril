@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,6 +182,7 @@
   },
   "active": "97a13a6daec8ee2d",
   "lastOpenFiles": [
+    "Recording 20241219135338.m4a",
     "Charecters/Yaztar/Appearance.md",
     "Charecters/Yaztar/lvl3-sheet.pdf",
     "Charecters/Yaztar/Classes taken.md",

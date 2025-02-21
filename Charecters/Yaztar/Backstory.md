@@ -1,3 +1,4 @@
+
 I can't really remember  anything that came before floating through the astral sea, at least not anymore. Those memories have eroded away as I have floated ever deeper through the sea. I can still sometimes see flashes and blurry glimpses into my past sometimes, as though looking through a frosted glass mosaic. A grand mansion floating in the astral sea... part of a city maybe, blurry faces,  ...me leaving? Is that right? Did I leave? Or was I sent away? I can’t really remember anymore. I used to keep track of the days, months, and years that I had been floating but keeping track of time in the astral plane has always been hard and being alone out in the depths of the sea makes it even harder so eventually my track of that faded.
 
 ## The Whispers and Crystal
