@@ -11,14 +11,12 @@
             "id": "97a13a6daec8ee2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Charecters/Yaztar/Backstory.md",
-                "mode": "source",
-                "source": false
+                "file": "Charecters/Yaztar/Blink pup.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Backstory"
+              "icon": "lucide-image",
+              "title": "Blink pup"
             }
           }
         ]
@@ -182,13 +180,15 @@
   },
   "active": "97a13a6daec8ee2d",
   "lastOpenFiles": [
+    "Sessions/Session 8.md",
+    "Charecters/Yaztar/Blink pup.jpg",
+    "Charecters/Yaztar/Backstory.md",
     "Recording 20241219135338.m4a",
     "Charecters/Yaztar/Appearance.md",
     "Charecters/Yaztar/lvl3-sheet.pdf",
     "Charecters/Yaztar/Classes taken.md",
     "Charecters/Yaztar/Whispers.md",
     "Charecters/Yaztar/Goals.md",
-    "Charecters/Yaztar/Backstory.md",
     "Sessions/Session 7.md",
     "Sessions/Session 6.md",
     "Sessions/Session 4.md",
@@ -216,8 +216,6 @@
     "Forgotten Realms/Untitled.md",
     "Forgotten Realms/Magic.md",
     "Forgotten Realms/Magic",
-    "Forgotten Realms/Sword Coast/Waterdeep",
-    "Yaztar/Yaztar.md",
-    "Notes.md"
+    "Yaztar/Yaztar.md"
   ]
 }
