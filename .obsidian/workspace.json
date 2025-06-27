@@ -11,12 +11,14 @@
             "id": "97a13a6daec8ee2d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Charecters/Yaztar/Blink pup.jpg"
+                "file": "Charecters/Xexion/Mother's Embrace.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Blink pup"
+              "icon": "lucide-file",
+              "title": "Mother's Embrace"
             }
           }
         ]
@@ -180,11 +182,13 @@
   },
   "active": "97a13a6daec8ee2d",
   "lastOpenFiles": [
+    "Charecters/Yaztar/Blink pup.jpg",
+    "Charecters/Xexion/Mother's Embrace.md",
+    "Charecters/Xexion",
     "Charecters/Yaztar/lvl3-sheet.pdf",
     "Forgotten Realms/Sword Coast/Waterdeep/Blackstaff Academy.md",
     "Sessions/Session 8.md",
     "Recording 20241219135338.m4a",
-    "Charecters/Yaztar/Blink pup.jpg",
     "Charecters/Yaztar/Backstory.md",
     "Charecters/Yaztar/Appearance.md",
     "Charecters/Yaztar/Classes taken.md",
@@ -214,8 +218,6 @@
     "Forgotten Realms/Loross.md",
     "Forgotten Realms/Netherial",
     "Forgotten Realms/Untitled.md",
-    "Forgotten Realms/Magic.md",
-    "Forgotten Realms/Magic",
-    "Yaztar/Yaztar.md"
+    "Forgotten Realms/Magic.md"
   ]
 }
