@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "1c93533eeceeaaca",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
             "id": "1d136bed5a3a5554",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Mother's Embrace"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +195,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c93533eeceeaaca",
+  "active": "6562dcc73bff8d2d",
   "lastOpenFiles": [
+    "Inventory.md",
+    "Charecters/Yaztar/Inventory.md",
     "Charecters/Xexion/Mother's Embrace.md",
     "Charecters/Runa/Notes.md",
     "Charecters/Annie/Notes.md",
@@ -217,11 +206,9 @@
     "Charecters/Yaztar/Appearance.md",
     "Charecters/Yaztar/Classes taken.md",
     "Charecters/Yaztar/Goals.md",
-    "Charecters/Yaztar/Inventory.md",
     "Charecters/Yaztar/Whispers.md",
     "Forgotten Realms/Magic/Items/Ring of Binding Light.md",
     "Charecters/Yaztar/inventory.base",
-    "Inventory.md",
     "Charecters/Yaztar/Blink pup.jpg",
     "Charecters/Xexion",
     "Charecters/Yaztar/lvl3-sheet.pdf",

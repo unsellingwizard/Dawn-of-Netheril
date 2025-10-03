@@ -1,4 +1,4 @@
-Bracers of defense 
+silveBracers of defense 
 Bag Holding with smile
 Cloak made of skin of large cat with hooks of displacement 
 3x healing potion
