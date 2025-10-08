@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e6a7c7e85a92da22",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "1d136bed5a3a5554",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Mother's Embrace"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6562dcc73bff8d2d",
+  "active": "e6a7c7e85a92da22",
   "lastOpenFiles": [
     "Inventory.md",
     "Charecters/Yaztar/Inventory.md",
