@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charecters/Yaztar/Inventory.md",
+                "file": "Charecters/Yaztar/Party ledger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Party ledger"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "6562dcc73bff8d2d",
   "lastOpenFiles": [
-    "Charecters/Xexion/Mother's Embrace.md",
     "Charecters/Yaztar/Inventory.md",
+    "Charecters/Yaztar/Party ledger.md",
+    "Charecters/Xexion/Mother's Embrace.md",
     "Inventory.md",
     "Charecters/Runa/Notes.md",
     "Charecters/Annie/Notes.md",
