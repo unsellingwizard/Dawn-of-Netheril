@@ -34,18 +34,6 @@
             }
           },
           {
-            "id": "dd193850ed8a7a63",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
             "id": "1d136bed5a3a5554",
             "type": "leaf",
             "state": {
@@ -220,7 +208,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dd193850ed8a7a63",
+  "active": "1d136bed5a3a5554",
   "lastOpenFiles": [
     "Charecters/Yaztar/Inventory.md",
     "Charecters/Yaztar/Party ledger.md",
