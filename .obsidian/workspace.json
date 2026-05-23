@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charecters/Xexion/Mother's Embrace.md",
+                "file": "Charecters/Yaztar/Party ledger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mother's Embrace"
+              "title": "Party ledger"
             }
           }
         ],
@@ -210,12 +210,12 @@
   },
   "active": "1d136bed5a3a5554",
   "lastOpenFiles": [
-    "Charecters/Yaztar/Inventory.md",
+    "Charecters/Annie/Notes.md",
     "Charecters/Yaztar/Party ledger.md",
     "Charecters/Xexion/Mother's Embrace.md",
+    "Charecters/Yaztar/Inventory.md",
     "Inventory.md",
     "Charecters/Runa/Notes.md",
-    "Charecters/Annie/Notes.md",
     "Charecters/Yaztar/Backstory.md",
     "Charecters/Yaztar/Appearance.md",
     "Charecters/Yaztar/Classes taken.md",
